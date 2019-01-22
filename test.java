@@ -8,4 +8,6 @@ line 1
 7
 8
 9
-this is line 10  
+this is line 10 
+this is the edited line 11
+  
